@@ -19,3 +19,10 @@ Some of the options can overridden thru the command line or the cfg file.
 From a command prompt run the following command to see the current values and possible options:
 
 Pro7Validation -i -h
+
+# Pro7Calendar
+Lists entries from the ProPresenter Calendar.
+
+From a command prompt run the following command to see the current values and possible options:
+
+Pro7Calendar -i -h
